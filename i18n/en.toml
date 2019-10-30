@@ -1,0 +1,17 @@
+[designed_by]
+  other = "Designed by  <a href = '{{ .url }}' target = '_blank' title = 'Linkedin Profile' rel = 'nonopener'>{{ .name }}</a>"
+[share_story]
+  other = "Share Story"
+[link_copied]
+  other = "Link Copied"
+[author_profile]
+  other = "{{ . }}'s profile"
+
+[viewArchive]
+  other = "View Archive"
+[theLatest]
+  other = "The Latest"
+[toggleDarkMode]
+  other = "Toggle Dark Mode"
+[xOFpages]
+  other = " of "

@@ -1,0 +1,16 @@
+[designed_by]
+  other = "  <a href = '{{ .url }}' target = '_blank' title = 'Ссылка' rel = 'nonopener'>{{ .name }}</a>"
+[share_story]
+  other = "Поделиться статьей"
+[link_copied]
+  other = "Ссылка скопирована"
+[author_profile]
+  other = "{{ . }}'s profile"
+[viewArchive]
+  other = "Все встречи"
+[theLatest]
+  other = "Другие встречи"
+[toggleDarkMode]
+  other = "Ночной режим"
+[xOFpages]
+  other = " из "

@@ -1,0 +1,14 @@
+- item: О нас
+  url: about/
+
+- item: Встречи
+  url: ""
+
+- item: Контакты
+  url: contact/
+
+# - item: Category
+#   url: categories
+
+# - item: Tag
+#   url: tags
